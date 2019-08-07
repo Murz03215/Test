@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    width: 100%;
+}
+
+.header-top{
+    width: 970px;
+    min-height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.header-top-left{
+width: 270px;
+display: flex;
+justify-content: space-between;
+}
+
+.header-top-right{
+    width: 470px;
+    margin-right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-middle{
+    background-image: 
+}
